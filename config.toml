@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "andrehance.netlify.app"
 title = "My Portfolio Title"
 theme = "PaperMod"
 
