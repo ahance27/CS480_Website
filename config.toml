@@ -60,8 +60,13 @@ url = "/blog/"
 weight = 10
 
 [[menu.main]]
+identifier = "skills"
+name = "skills"
+url = "/skills/"
+weight = 20
+
+[[menu.main]]
 identifier = "projects"
 name = "projects"
 url = "/projects/"
 weight = 20
-
