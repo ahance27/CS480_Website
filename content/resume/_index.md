@@ -5,7 +5,7 @@ weight: 1
 aliases: ["/my-project-blog"]
 tags: ["first", "project-blog"]
 draft: false
-description: "My resume"
+description: "My resume updated"
 cover:
   hidden: false
   image: "resume.png"
