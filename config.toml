@@ -7,7 +7,7 @@ theme = "PaperMod"
 env = "production"
 author = "<author>"
 description = "Portfolio description"
-keywords = ["Blog", "Portfolio", "PaperMod"]
+keywords = ["Aboutme", "Portfolio", "PaperMod"]
 disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = true
@@ -54,9 +54,9 @@ name = "gitlab"
 url = "https://gitlab.com/"
 
 [[menu.main]]
-identifier = "blog"
-name = "blog"
-url = "/blog/"
+identifier = "About me"
+name = "About me"
+url = "/Aboutme/"
 weight = 10
 
 [[menu.main]]
