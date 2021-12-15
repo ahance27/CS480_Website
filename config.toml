@@ -33,10 +33,6 @@ imageHeight = 120
 name = "tags"
 url = "/tags/"
 
-[[params.profileMode.buttons]]
-name = "puppies"
-url = "https://google.com/search?tbm=isch&q=puppies"
-
 [[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/"
