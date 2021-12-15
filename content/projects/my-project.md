@@ -1,5 +1,5 @@
 ---
-title: My project
+title: Tic-Tac-Toe made with PySimpleGUI
 date: 2021-11-02T08:10:29-04:00
 draft: false
 showReadingTime: false
@@ -9,11 +9,8 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ---
 
-## My project
+## About the project
 
-You can find the current release on [PyPI](https://www.pypi.org)!
+You can find the current release on [Tic-Tac-Toe](https://github.com/allegheny-computer-science-203-s2021/Team5Project2)!
 
-I also wrote a [blog](/my-project-blog) about it!
-
-- It does a thing
-- I made it with Python and FastAPI
+ - This was a final project for CS203, and was quite a challenging one. It was my first time implementing graphics into a Python program. This was done using PySimpleGUI which was a challenge in it self to learn, however well worth it. Over all the project was fun to complete, and gave the user a nice looking way to play tic-tac-toe against friends or an AI.
