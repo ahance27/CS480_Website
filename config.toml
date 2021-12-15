@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "Andre's Portfolio"
+baseURL = "https://testsite123456678.netlify.app/"
+title = "testsite123456678"
 theme = "PaperMod"
 
 # Theme configuration
