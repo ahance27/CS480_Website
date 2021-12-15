@@ -54,7 +54,7 @@ name = "gitlab"
 url = "https://gitlab.com/"
 
 [[menu.main]]
-identifier = "About me"
+identifier = "blog"
 name = "About me"
 url = "/Aboutme/"
 weight = 10
