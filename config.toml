@@ -29,29 +29,9 @@ imageUrl = "pic.png"
 imageWidth = 120
 imageHeight = 120
 
-[[params.profileMode.buttons]]
-name = "tags"
-url = "/tags/"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/"
-
-[[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
-
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/ahance27"
-
-[[params.socialIcons]]
-name = "gitlab"
-url = "https://gitlab.com/"
 
 [[menu.main]]
 identifier = "blog"
