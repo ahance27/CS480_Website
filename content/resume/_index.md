@@ -8,6 +8,6 @@ draft: false
 description: "My resume updated v2"
 cover:
   hidden: false
-  image: "resume.png"
+  image: "/resume.png"
   caption: "resume."
 ---
