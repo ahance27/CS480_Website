@@ -1,5 +1,5 @@
 ---
-title: Skills
+title: Java
 date: 2021-11-02T08:10:29-04:00
 draft: false
 showReadingTime: false
@@ -9,10 +9,4 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ---
 
-## My project
-
-My computer programming skill set includes:
-  - Python
-  - Java
-  - R
-  - Swift(Work in progress)
+I have been working with the Java language since Highschool on and off. It is one of my favorite languages to work with and one of the most popular out there.
