@@ -11,3 +11,4 @@ cover:
   image: "/resume.PNG"
   caption: "resume."
 ---
+[Click to see my resume](/resumemd.pdf)
