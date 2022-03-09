@@ -61,24 +61,24 @@ How do you get the resource ready to use? Are there inputs to know? Please show 
 - The first step is to add the `import SwiftUI` line at the top of the contentView.swift file.
 - Xcode autogenerates two files upon creation of a Swift project. The main file, and the contentView file. When working with the interface graphics using SwiftUI, most of this will be done in the contentView file.
 
-![swiftUI1](images/screenshot1.png)
+![swiftUI1](/screenshot1.png)
 
 - Some of the basic functions in swiftUI are `HStack` and `VStack`. These are used for formatting/arrangement in the view. And some examples of how they are used are below.
 
-![swiftUI2](images/screenshot2.png)
+![swiftUI2](/screenshot2.png)
 
 - You can see how `VStack` contains attributes `alignment: .leading` and `alignment: .trailing` position the following contents in the `VStack`.
 
-![swiftUI3](images/screenshot3.png)
+![swiftUI3](/screenshot3.png)
 
 - Another useful function is the `.accessibility`. This function is used add accessibility aspects to the app. For instance these lines of code add voice over narration to the specified statements.
 
-![swiftUI4](images/screenshot4.png)
+![swiftUI4](/screenshot4.png)
 
 - The `.padding()` function is used to add a padding around the view. For instance in the case of newer iPhones with the notch, it makes sure that the content of the app does not go behind the notch and become inaccessible to the user.
 - Shapes can be made very easily in SwiftUI for instance to make a circle, the function `Circle()` creates a circle. Adding  `.strokeBorder(lineWidth: 24)` inside the function sets the line width to 24.
 
-![swiftUI5](images/screenshot5.png)
+![swiftUI5](/screenshot5.png)
 
 ---
 
