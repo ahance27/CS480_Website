@@ -9,7 +9,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ---
 #### Questions
-Please anticipate at least 500 words for this writing assignment.
 
 1. Summarize the knowledge gap that emerges from your chosen research area.
 
