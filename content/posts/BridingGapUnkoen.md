@@ -45,10 +45,6 @@ https://doi.org/10.1016/j.micpro.2020.103722.
 
  There could be many different routes to improve the way software engineers create their software. All of the documented articles above mention different ways to improve this in different regards and for different applications. However the underlying fact is that most of the time, developers are lazy, and don't go the extra mile to ensure that their users will have a secure, and good experience using their software. I think that some steps to answer the research question could be; identifying where apps most commonly lack user privacy, payment and age verification process there are not necessary to app utility and even just user data security in general and its security against hackers.
 
-
-5. Please provide a cohesive blog post on your website (min 200 words) to summarize your answers for the above questions.
-
-  (Please remove this tag once this task has been completed.)
 ---
 
 (Did you remember to add your name and GitHub account name and date to the top of this document?)
